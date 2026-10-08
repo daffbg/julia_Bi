@@ -1,0 +1,4 @@
+*.Manifest.toml
+packages/*/Manifest.toml
+.DS_Store
+*.swp
